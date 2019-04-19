@@ -1,0 +1,6 @@
+{
+  "services": [
+    { "id": 1, "title": "1.Communication Service" },
+    { "id": 2, "title": "2.System Information" }
+  ]
+}
