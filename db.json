@@ -1,20 +1,6 @@
 {
-  "vehicles": [
-    { "id": 1, "title": "55000 - 18000055" },
-    { "id": 2, "title": "55500 - EchoTGW" },
-    { "id": 3, "title": "55025 - 12000012" },
-    { "id": 4, "title": "55019 - 18000004" }
-  ],
-  "services": [
-    { "id": 1, "title": "1.Communication Service" },
-    { "id": 2, "title": "2.System Information" }
-  ],
-  "versions": [
-    { "id": 1, "title": "1" },
-    { "id": 2, "title": "2" }
-  ],
-  "pdus": [
-    { "id": 1, "title": "comSetup-10:ComSetup-10" },
-    { "id": 2, "title": "comRespSetup-10:ComRespSetup-10" }
-  ]
+  "vehicles": ["55000 - 18000055","55500 - EchoTGW","55025 - 12000012","55019 - 18000004"],
+  "services": ["1.Communication Service","2.System Information"],
+  "versions": ["1","2"],
+  "pdus": ["comSetup-10:ComSetup-10","comRespSetup-10:ComRespSetup-10"]
 }
