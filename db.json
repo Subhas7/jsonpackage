@@ -1,5 +1,2 @@
 {
-  "services": ["1.Communication Service","2.System Information"],
-  "versions": ["1","2"],
-  "pdus": ["comSetup-10:ComSetup-10","comRespSetup-10:ComRespSetup-10"]
 }
