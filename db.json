@@ -1,0 +1,6 @@
+{
+  "vehicles": ["55000 - 18000055","55500 - EchoTGW","55025 - 12000012","55019 - 18000004"],
+  "services": ["1.Communication Service","2.System Information"],
+  "versions": ["1","2"],
+  "pdus": ["comSetup-10:ComSetup-10","comRespSetup-10:ComRespSetup-10"]
+}
